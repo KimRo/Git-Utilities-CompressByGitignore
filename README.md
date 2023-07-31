@@ -12,8 +12,7 @@ This package consists of 2 files:
 ## License notice
 The "utility" uses 2 external tools with their respective licenses
 * 7-zip (https://www.7-zip.org/) by Igor Pavlov, license information: https://www.7-zip.org/license.txt
-* git-scm (https://git-scm.com), by Scott Chacon and others, license information, https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt
-  git-scm includes Git by Linus Torvalds, license information, https://github.com/git/git/blob/master/COPYING
+* git-scm (https://git-scm.com), by Scott Chacon and others, license information, https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt, git-scm includes Git by Linus Torvalds, license information, https://github.com/git/git/blob/master/COPYING
   
 ## Preconditions
 The utility presume that 
